@@ -1,0 +1,14 @@
+/*
+Copyright (C) 2015 James Wong <jameshsw@gmail.com>
+All Rights Reserved.
+
+CSS file
+*/
+li a {
+	color: green;
+}
+
+body {
+	/* background: white url("images/background.jpg") no-repeat right bottom; */
+	background: white url("images/background.jpg") no-repeat;
+}
